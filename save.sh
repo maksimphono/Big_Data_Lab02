@@ -1,5 +1,5 @@
 time=$(date +"%Y-%m-%d %H:%M:%S")
-name="Kai lin"
+name="Xu Feng"
 git add -A
 git commit -m "$name $time"
 
