@@ -1,2 +1,3 @@
-git pull --no-edit origin Max
+git fetch origin
+git merge -X theirs origin/Max
 
